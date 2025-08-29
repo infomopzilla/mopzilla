@@ -169,7 +169,7 @@ export default function Header() {
               </nav>
               <div className="mt-auto flex flex-col gap-4">
                 <QuoteButton className="bg-[#2a738d] text-white hover:bg-[#236073] font-semibold w-full">
-                  Get Estimate
+                  Get Estimates
                 </QuoteButton>
               </div>
             </div>
